@@ -1,0 +1,10 @@
+{
+    "bc_key": "BIBLIOCOMMONS-KEY-HERE",
+    "twitter_creds" : {
+        "access_token": "ACCESS-TOKEN-HERE", 
+        "access_token_secret": "ACCESS-TOKEN-SECRET-HERE", 
+        "bearer_token": "BEARER-TOKEN-HERE", 
+        "consumer_key": "CONSUMER-KEY-HERE", 
+        "consumer_secret": "CONSUMER-SECRET-HERE"
+    }
+}
